@@ -17,6 +17,7 @@ O sistema deve permitir que novos usuários sejam cadastrados, registrando as se
 O sistema deve permitir que os colaboradores visualizem seu saldo atual de Turing e o extrato detalhado, incluindo:
   - Data das transações
   - Quantidade de Turing envolvida
+  - Descrição da transação
 
 ### [RF003] Resgatar Recompensa
 O sistema deve permitir que os colaboradores resgatem recompensas disponíveis utilizando seus pontos de Turing, conforme o saldo disponível.
@@ -28,8 +29,8 @@ A diretoria deve poder realizar o cadastro, atualização e exclusão de recompe
   - Quantidade de Turing necessária para resgate
   - Data de validade (se aplicável)
 
-### [RF005] Adicionar Turing
-A diretoria deve poder adicionar pontos de Turing às contas dos colaboradores, conforme critérios estabelecidos pela empresa.
+### [RF005] Gerenciar Turing
+A diretoria deve poder adicionar ou remover pontos de Turing às contas dos colaboradores, conforme critérios estabelecidos pela empresa.
 
 <!-- ### 2.7. Gerar Relatório Financeiro
 A diretoria deve poder gerar relatórios financeiros com informações agregadas sobre a distribuição e utilização de Turing, incluindo:
@@ -82,3 +83,12 @@ A diretoria deve poder gerar relatórios financeiros com informações agregadas
 
 ### [RN002] Data de aniversário
 - Os colaboradores podem receber pontos de Turing extras em seus aniversários, como forma de reconhecimento e incentivo.
+
+### [RN003] Data de aniversário na empresa
+- Os colaboradores podem receber pontos de Turing extras em seus aniversários na empresa, como forma de reconhecimento e incentivo.
+
+### [RN004] Gerenciamento de usuário
+- Somente a diretoria pode gerenciar usuários.
+
+### [RN005] Gerenciamento de resgates
+- O usuário só poderá resgatar a recompensa se possuir o saldo necessário.
