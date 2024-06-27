@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Página-1" id="NBHZvv1atR7YSYuIE8ls">
-        <mxGraphModel dx="1000" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1098" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -10,57 +10,51 @@
                 <mxCell id="ZDBc-1S2DOzsnArOQbrc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZDBc-1S2DOzsnArOQbrc-1" target="ZDBc-1S2DOzsnArOQbrc-7" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="ZDBc-1S2DOzsnArOQbrc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZDBc-1S2DOzsnArOQbrc-1" target="ZDBc-1S2DOzsnArOQbrc-11" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
                 <mxCell id="ZDBc-1S2DOzsnArOQbrc-1" value="&lt;div&gt;Colaborador&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
                     <mxGeometry x="180" y="370" width="30" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="ZDBc-1S2DOzsnArOQbrc-2" value="Visualizar saldo e extrato de Turing" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="580" y="360" width="120" height="80" as="geometry"/>
+                    <mxGeometry x="530" y="360" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="ZDBc-1S2DOzsnArOQbrc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZDBc-1S2DOzsnArOQbrc-5" target="ZDBc-1S2DOzsnArOQbrc-14" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="286" y="640"/>
-                            <mxPoint x="286" y="690"/>
-                        </Array>
-                    </mxGeometry>
+                <mxCell id="7" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZDBc-1S2DOzsnArOQbrc-5" target="ZDBc-1S2DOzsnArOQbrc-13">
+                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="ZDBc-1S2DOzsnArOQbrc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZDBc-1S2DOzsnArOQbrc-5" target="ZDBc-1S2DOzsnArOQbrc-13" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="285" y="640"/>
-                            <mxPoint x="285" y="585"/>
-                        </Array>
-                    </mxGeometry>
+                <mxCell id="8" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZDBc-1S2DOzsnArOQbrc-5" target="ZDBc-1S2DOzsnArOQbrc-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZDBc-1S2DOzsnArOQbrc-5" target="ZDBc-1S2DOzsnArOQbrc-14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=none;html=1;entryX=0.992;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZDBc-1S2DOzsnArOQbrc-5" target="ZDBc-1S2DOzsnArOQbrc-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZDBc-1S2DOzsnArOQbrc-5" target="ZDBc-1S2DOzsnArOQbrc-2">
+                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="ZDBc-1S2DOzsnArOQbrc-5" value="Diretoria" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="190" y="610" width="30" height="60" as="geometry"/>
+                    <mxGeometry x="740" y="370" width="30" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZDBc-1S2DOzsnArOQbrc-7" target="ZDBc-1S2DOzsnArOQbrc-2">
+                <mxCell id="5" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZDBc-1S2DOzsnArOQbrc-7" target="ZDBc-1S2DOzsnArOQbrc-2" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="640" y="300" as="targetPoint"/>
-                        <Array as="points">
-                            <mxPoint x="640" y="300"/>
-                        </Array>
+                        <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="6" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5">
+                <mxCell id="6" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5" vertex="1" connectable="0">
                     <mxGeometry x="-0.4994" y="-1" relative="1" as="geometry">
-                        <mxPoint as="offset"/>
+                        <mxPoint x="25" y="11" as="offset"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="ZDBc-1S2DOzsnArOQbrc-7" value="Resgatar recompensa" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="350" y="260" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="ZDBc-1S2DOzsnArOQbrc-11" value="Se cadastrar na plataforma" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="350" y="450" width="120" height="80" as="geometry"/>
+                <mxCell id="ZDBc-1S2DOzsnArOQbrc-11" value="Cadastrar usuários" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="440" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="ZDBc-1S2DOzsnArOQbrc-13" value="Cadastrar recompensa" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="353" y="545" width="120" height="80" as="geometry"/>
+                    <mxGeometry x="350" y="544.5" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="ZDBc-1S2DOzsnArOQbrc-14" value="Adicionar Turing" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="ZDBc-1S2DOzsnArOQbrc-14" value="Gerenciar Turing" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="354" y="650" width="120" height="80" as="geometry"/>
                 </mxCell>
             </root>
