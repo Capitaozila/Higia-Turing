@@ -1,3 +1,5 @@
+## Funcionais
+
 **RF001**
 Cadastrar de recompensas (Diretoria)
 
@@ -12,3 +14,8 @@ Resgatar recompensa (Colaborador)
 
 **RF005**
 Visualizar saldo e extrato de Turing (Colaborador)
+
+## Não Funcionais
+
+**NF001**
+Sistema Intuitivo
