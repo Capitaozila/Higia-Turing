@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net" modified="2024-06-27T13:22:23.572Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="zWpNMewW7a8lrO0pMq_h" version="24.6.3" type="google">
+  <diagram name="Página-1" id="NBHZvv1atR7YSYuIE8ls">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZDBc-1S2DOzsnArOQbrc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZDBc-1S2DOzsnArOQbrc-1" target="ZDBc-1S2DOzsnArOQbrc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDBc-1S2DOzsnArOQbrc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZDBc-1S2DOzsnArOQbrc-1" target="ZDBc-1S2DOzsnArOQbrc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDBc-1S2DOzsnArOQbrc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZDBc-1S2DOzsnArOQbrc-1" target="ZDBc-1S2DOzsnArOQbrc-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDBc-1S2DOzsnArOQbrc-1" value="&lt;div&gt;Colaborador&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDBc-1S2DOzsnArOQbrc-2" value="Visualizar saldo e extrato de Turing" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDBc-1S2DOzsnArOQbrc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZDBc-1S2DOzsnArOQbrc-5" target="ZDBc-1S2DOzsnArOQbrc-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="286" y="640" />
+              <mxPoint x="286" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZDBc-1S2DOzsnArOQbrc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZDBc-1S2DOzsnArOQbrc-5" target="ZDBc-1S2DOzsnArOQbrc-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="640" />
+              <mxPoint x="285" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZDBc-1S2DOzsnArOQbrc-5" value="Diretoria" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="610" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDBc-1S2DOzsnArOQbrc-7" value="Resgatar recompensa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDBc-1S2DOzsnArOQbrc-11" value="Se cadastrar na plataforma" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDBc-1S2DOzsnArOQbrc-13" value="Cadastrar recompensa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDBc-1S2DOzsnArOQbrc-14" value="Adicionar Turing" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="650" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
