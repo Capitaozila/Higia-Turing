@@ -3,6 +3,9 @@
 ## Objetivo
 Desenvolver um aplicativo estilo Livelo em um mês. O aplicativo, chamado de "Higia Points", terá um sistema de recompensas e um sistema de pontos. Os funcionários poderão acumular pontos realizando ações no aplicativo e comprar itens conforme acumularem pontos. Além disso, o aplicativo contará com recursos como login, cadastro...
 
+## Interface
+As telas da plataforma serão modeladas pelo Figma, esse é o [link](https://www.figma.com/design/3EOK1If1mewuCiNdfMzQXT/Higia-Tela?node-id=0-1&t=898EhbDy0avuJJvw-1) para o projeto.
+
 ## Tecnologias
 
 Para o desenvolvimento do projeto "Higia Points", vamos propor algumas ideias que podem ser utilizadas para a implementação do aplicativo. Essas ideias são sugestões e podem ser adaptadas conforme a necessidade e preferência da equipe de desenvolvimento.
