@@ -12,8 +12,8 @@ O sistema deve permitir que novos usuários sejam cadastrados, registrando as se
   - Endereço de e-mail
   - Senha de acesso
 
-### [RF002] Visualizar Saldo e Extrato de Turing
- Visualizar Saldo e Extrato de Turing
+### [RF002] Verificar Saldo e Extrato de Turing
+ Verificar Saldo e Extrato de Turing
 O sistema deve permitir que os colaboradores visualizem seu saldo atual de Turing e o extrato detalhado, incluindo:
   - Data das transações
   - Quantidade de Turing envolvida
