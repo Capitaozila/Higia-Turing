@@ -92,3 +92,20 @@ A diretoria deve poder gerar relatórios financeiros com informações agregadas
 
 ### [RN005] Gerenciamento de resgates
 - O usuário só poderá resgatar a recompensa se possuir o saldo necessário.
+
+### [RN006] Gerenciamento de recompensas
+
+- A recompensa só poderá ser cadastrada se possuir a quantidade de Turing necessária para resgate.
+
+### [RN007] Tarefas antecipadas
+
+- A diretoria poderá adicionar tarefas para os colaboradores, que ao serem concluídas mais cedo que a data prevista, receberão pontos de Turing extras.
+
+
+### [RN009] Tarefas concluídas
+
+- Ao concluir uma tarefa, o colaborador receberá pontos de Turing.
+
+### [RN011] Tarefas canceladas
+
+- Caso a tarefa seja cancelada, o colaborador não receberá pontos de Turing. Mas, a diretoria deve notificar o funcionário sobre o cancelamento e dá as devidas justificativas.
