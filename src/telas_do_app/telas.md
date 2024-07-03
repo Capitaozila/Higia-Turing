@@ -6,8 +6,7 @@
 
 ## Tela de extrato
 
-    1. -Tela de Saldo
-    2. -Tela de Histórico
+![alt text](tela-extrato.png)
 
 ## Tela da diretoria
 
