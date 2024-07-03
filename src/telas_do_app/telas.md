@@ -1,6 +1,6 @@
-## Tela de inicio (Diretoria)
+## Tela de inicial (Diretoria)
 
-![alt text](image.png)
+![alt text](tela_inicial.png)
 
 ## Tela de login-registro
 
